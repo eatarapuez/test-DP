@@ -1,3 +1,6 @@
 host:
   name: "ConsultaSaldos"
   IPAddress: "10.10.10.10"
+host:
+  name: "ConsultaSaldos"
+  IPAddress: "10.10.10.10"
