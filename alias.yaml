@@ -1,6 +1,4 @@
-host:
-  name: "ConsultaSaldos"
+- name: "ConsultaSaldos"
   IPAddress: "10.10.10.10"
-host:
-  name: "ConsultaSaldos1"
+- name: "ConsultaSaldos1"
   IPAddress: "10.10.10.101"
