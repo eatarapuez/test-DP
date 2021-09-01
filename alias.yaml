@@ -1,0 +1,3 @@
+host:
+  name: "ConsultaSaldos"
+  IPAddress: "10.10.10.10"
