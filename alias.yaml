@@ -1,4 +1,6 @@
-- name: "ConsultaSaldos"
+- name: "ConsultaSaldos1"
   IPAddress: "10.10.10.10"
+  adminState: "enable"
+  UserSummary: "test"
 - name: "ConsultaSaldos1"
   IPAddress: "10.10.10.101"
